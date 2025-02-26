@@ -1,0 +1,83 @@
+[
+    {
+      "nom": "HTML",
+      "image": "html.png",
+      "type": "Frontend"
+    },
+    {
+      "nom": "CSS",
+      "image": "css.png",
+      "type": "Frontend"
+    },
+    {
+      "nom": "PHP",
+      "image": "php.png",
+      "type": "Backend"
+    },
+    {
+      "nom": "JavaScript",
+      "image": "JS.png",
+      "type": "Frontend"
+    },
+    {
+      "nom": "Laravel",
+      "image": "laravel.png",
+      "type": "Backend"
+    },
+    {
+      "nom": "MySQL",
+      "image": "mysql.png",
+      "type": "Base de données"
+    },
+    {
+      "nom": "MongoDB",
+      "image": "mongodb.png",
+      "type": "Base de données"
+    },
+    {
+      "nom": "Node.js",
+      "image": "node.png",
+      "type": "Backend"
+    },
+    {
+      "nom": "React",
+      "image": "react.png",
+      "type": "Frontend"
+    },
+    {
+      "nom": "GitHub",
+      "image": "github.png",
+      "type": "Outils"
+    },
+    {
+      "nom": "VS Code",
+      "image": "visual.png",
+      "type": "Outils"
+    },
+    {
+      "nom": "Trello",
+      "image": "trello.png",
+      "type": "Outils"
+    },
+    {
+      "nom": "Figma",
+      "image": "figma.png",
+      "type": "Design"
+    },
+    {
+      "nom": "Canva",
+      "image": "canva.png",
+      "type": "Design"
+    },
+    {
+      "nom": "Bootstrap",
+      "image": "bootstrap.png",
+      "type": "Frontend"
+    },
+    {
+      "nom": "Tailwind",
+      "image": "tailwind.png",
+      "type": "Frontend"
+    }
+  ]
+  

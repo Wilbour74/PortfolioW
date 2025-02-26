@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nom": "E-Commerce",
+        "duree_semaine": 6,
+        "image": "assets/ecom.png",
+        "technos": "React, Symfony, MySQL",
+        "description": "Realisation d'une plateforme e-commerce avec du matériel gaming.",
+        "github": "https://github.com/Wilbour74/e-commerce"
+    },
+    {
+        "id": 2,
+        "nom": "Previous",
+        "duree_semaine": 1,
+        "image": "assets/previous.png",
+        "technos": "React, Rest-Api",
+        "description": "Realisation d'une plateforme permettant de consulter les séries regarder, utilisaiton de l'api Betaseries",
+        "github": "https://github.com/Wilbour74/Previous-ON"
+    },
+    {
+        "id": 3,
+        "nom": "Around You",
+        "duree_semaine": 1,
+        "image": "assets/mobile.png",
+        "technos": "React-native, Rest-API",
+        "description": "Création d'application répertoriant les activités aux alentours.",
+        "github": "https://github.com/Wilbour74/Around"
+    },
+    {
+        "id": 4,
+        "nom": "Hell's Crown",
+        "duree_semaine": 2,
+        "image": "assets/html5.png",
+        "technos": "HTML, PhaserJS",
+        "description": "Creation d'un jeu tower défense.",
+        "github": "https://github.com/Wilbour74/Hell-s-crown"
+    },
+    {
+        "id": 5,
+        "nom": "Gribouille.io",
+        "duree_semaine": 1,
+        "image": "assets/go.png",
+        "technos": "Golang, Javascript",
+        "description" : "Reproduction du jeu Skribbl ou le but est deviner ce qu'une personne dessine.",
+        "github" : "https://github.com/Wilbour74/SkribblLike"
+    }
+]
